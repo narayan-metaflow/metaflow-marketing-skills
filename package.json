@@ -1,0 +1,10 @@
+{
+  "name": "metaflow-marketing-skills",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Marketing agent skills: paid search, paid social, paid media, SEO/AEO, AI visibility",
+  "type": "module",
+  "scripts": {
+    "validate": "bash validate-skills.sh"
+  }
+}

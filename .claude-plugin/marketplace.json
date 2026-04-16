@@ -1,0 +1,49 @@
+{
+  "name": "metaflow-marketing-skills",
+  "owner": {
+    "name": "narayan-metaflow",
+    "url": "https://github.com/narayan-metaflow"
+  },
+  "metadata": {
+    "description": "Paid search, paid social, cross-channel paid media, SEO/AEO, and AI visibility skills for coding agents",
+    "version": "0.1.0",
+    "repository": "https://github.com/narayan-metaflow/metaflow-marketing-skills"
+  },
+  "plugins": [
+    {
+      "name": "metaflow-marketing-skills",
+      "description": "27 marketing skills: Google/Meta playbooks and deep packs, SEO/AEO master set, prompt libraries for LLM visibility",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/ad-spend-allocator",
+        "./skills/ai-search-visibility-aeo-geo-llmo",
+        "./skills/bofu-seo-aeo-strategy",
+        "./skills/campaign-analyzer",
+        "./skills/google-ads-account-audit",
+        "./skills/google-ads-campaign-builder",
+        "./skills/google-ads-keyword-engine",
+        "./skills/google-ads-optimizer",
+        "./skills/google-ads-scripts",
+        "./skills/google-merchant-center",
+        "./skills/link-building-digital-pr",
+        "./skills/local-seo-google-business-profile",
+        "./skills/meta-ads-account-audit",
+        "./skills/meta-ads-campaign-builder",
+        "./skills/meta-ads-creative-engine",
+        "./skills/meta-ads-optimizer",
+        "./skills/meta-ads-playbook",
+        "./skills/meta-ads-tracking-setup",
+        "./skills/on-page-seo-aeo-optimization",
+        "./skills/paid-media-reporter",
+        "./skills/paid-search-ads-playbook",
+        "./skills/prompt-picker",
+        "./skills/seo-aeo-content-strategy",
+        "./skills/seo-keyword-research-intent-mapping",
+        "./skills/seo-max-kt",
+        "./skills/seo-reporting-measurement",
+        "./skills/technical-seo-ai-crawler-audit"
+      ]
+    }
+  ]
+}
