@@ -1,7 +1,7 @@
-
-# Google Merchant Center
-
-Optimize product feeds for Shopping and Performance Max campaigns — from fixing disapprovals to building custom label strategies that power profitability-based bidding.
+---
+name: google-merchant-center
+description: Optimize product feeds for Shopping and Performance Max campaigns — from fixing disapprovals to building custom label strategies that power profitability-based bidding.
+---
 
 ## Process
 

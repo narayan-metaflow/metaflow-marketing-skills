@@ -1,6 +1,7 @@
-# Link Building & Digital PR
-
-Build backlinks, earned media, and brand mentions that move both traditional rankings and AI visibility. The dominant modern tactic is digital PR anchored to original data; the fastest wins often come from unlinked mention reclamation.
+---
+name: link-building-digital-pr
+description: "Build backlinks, earned media, and brand mentions that move both traditional rankings and AI visibility. The dominant modern tactic is digital PR anchored to original data; the fastest wins often come from unlinked mention reclamation."
+---
 
 ## Why this matters
 

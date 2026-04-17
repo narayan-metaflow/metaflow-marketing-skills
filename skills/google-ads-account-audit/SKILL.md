@@ -1,7 +1,7 @@
-
-# Google Ads Account Audit
-
-Systematic 70+ checkpoint audit covering tracking, structure, keywords, ads, bidding, budgets, audiences, and competitive positioning — with ICE-prioritized recommendations.
+---
+name: google-ads-account-audit
+description: "Systematic 70+ checkpoint audit covering tracking, structure, keywords, ads, bidding, budgets, audiences, and competitive positioning — with ICE-prioritized recommendations."
+---
 
 ## Process
 

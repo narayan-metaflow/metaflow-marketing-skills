@@ -1,6 +1,7 @@
-# SEO Reporting & Measurement
-
-Build reports that stakeholders trust, rooted in data sources that are actually reliable. Modern SEO measurement has to reckon with a very specific constraint: **the primary data source (GSC) is ~75% incomplete**, and the AI visibility layer is **probabilistic**, not deterministic. Building reports that ignore these realities produces false confidence.
+---
+name: seo-reporting-measurement
+description: "Build reports that stakeholders trust, rooted in data sources that are actually reliable. Modern SEO measurement has to reckon with a very specific constraint: **the primary data source (GSC) is ~75% incomplete**, and the AI visibility layer is **probabilistic**, not deterministic. Building reports that ignore these realities produces false confidence."
+---
 
 ## Why this matters
 

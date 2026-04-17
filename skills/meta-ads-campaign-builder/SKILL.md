@@ -1,7 +1,7 @@
-
-# Meta Ads Campaign Builder
-
-Build and configure Meta Ads campaigns across all ODAX objectives — from objective selection through audience strategy, placement, budget, and creative launch.
+---
+name: meta-ads-campaign-builder
+description: "Build and configure Meta Ads campaigns across all ODAX objectives — from objective selection through audience strategy, placement, budget, and creative launch."
+---
 
 ## Process
 

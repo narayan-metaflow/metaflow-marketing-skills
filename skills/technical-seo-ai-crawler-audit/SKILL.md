@@ -1,6 +1,7 @@
-# Technical SEO & AI Crawler Audit
-
-Diagnose and prioritize the technical issues blocking a site from being crawled, indexed, ranked, and cited. Modern technical SEO has two audiences: Google's crawler/indexer and AI answer engines (GPTBot, PerplexityBot, ClaudeBot, etc.). Both need HTML-visible content and a clean crawl path.
+---
+name: technical-seo-ai-crawler-audit
+description: "Diagnose and prioritize the technical issues blocking a site from being crawled, indexed, ranked, and cited. Modern technical SEO has two audiences: Google's crawler/indexer and AI answer engines (GPTBot, PerplexityBot, ClaudeBot, etc.). Both need HTML-visible content and a clean crawl path."
+---
 
 ## Why this matters
 

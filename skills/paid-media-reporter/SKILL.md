@@ -1,7 +1,7 @@
-
-# Paid Media Reporter
-
-Build performance reports, dashboards, and stakeholder communications that turn ad data into business narratives — client reports, QBRs, audit deliverables, and executive summaries.
+---
+name: paid-media-reporter
+description: "Build performance reports, dashboards, and stakeholder communications that turn ad data into business narratives — client reports, QBRs, audit deliverables, and executive summaries."
+---
 
 ## Process
 

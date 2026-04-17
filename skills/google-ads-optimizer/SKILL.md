@@ -1,7 +1,7 @@
-
-# Google Ads Optimizer
-
-Optimize running Google Ads campaigns — bid strategy tuning, budget reallocation, Quality Score improvement, ad copy iteration, audience refinement, placement management, and scaling.
+---
+name: google-ads-optimizer
+description: "Optimize running Google Ads campaigns — bid strategy tuning, budget reallocation, Quality Score improvement, ad copy iteration, audience refinement, placement management, and scaling."
+---
 
 ## Process
 

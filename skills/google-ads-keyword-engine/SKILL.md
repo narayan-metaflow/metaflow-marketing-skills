@@ -1,7 +1,7 @@
-
-# Google Ads Keyword Engine
-
-Research, evaluate, mine, and manage keywords for Google Ads — from initial discovery through ongoing search term optimization and negative keyword management.
+---
+name: google-ads-keyword-engine
+description: "Research, evaluate, mine, and manage keywords for Google Ads — from initial discovery through ongoing search term optimization and negative keyword management."
+---
 
 ## Process
 

@@ -1,7 +1,7 @@
-
-# Campaign Analyzer
-
-Analyze paid media performance across dimensions, funnels, cohorts, and channels — turning data into actionable insights and business narratives.
+---
+name: campaign-analyzer
+description: "Analyze paid media performance across dimensions, funnels, cohorts, and channels — turning data into actionable insights and business narratives."
+---
 
 ## Process
 

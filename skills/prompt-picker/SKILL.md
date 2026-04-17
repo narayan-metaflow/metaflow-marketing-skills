@@ -1,8 +1,7 @@
-# Prompt Picker
-
-Build a prompt library that reveals how a brand shows up across the full buyer journey
-in AI search systems. The library is designed for actual LLM visibility tracking, not
-theoretical SEO keyword research.
+---
+name: prompt-picker
+description: "Build a prompt library that reveals how a brand shows up across the full buyer journey in AI search systems. The library is designed for actual LLM visibility tracking, not theoretical SEO keyword research."
+---
 
 ## Why this skill exists
 

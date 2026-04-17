@@ -1,7 +1,7 @@
-
-# Meta Ads Creative Engine
-
-Build a systematic creative testing, production, and rotation pipeline for Meta Ads — prevent fatigue, scale winners, and maintain performance through structured experimentation.
+---
+name: meta-ads-creative-engine
+description: "Build a systematic creative testing, production, and rotation pipeline for Meta Ads — prevent fatigue, scale winners, and maintain performance through structured experimentation."
+---
 
 ## Process
 

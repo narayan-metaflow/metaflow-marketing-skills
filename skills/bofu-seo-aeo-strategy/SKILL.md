@@ -1,6 +1,7 @@
-# BOFU SEO & AEO Strategy
-
-Plan, write, and maintain content that wins purchase-near buyers in both organic search and AI answer engines. BOFU content is structurally different from TOFU — the reader has accepted they need to decide; the page's job is to resolve the decision. Get it right and a single deep page can outperform dozens of informational posts on revenue contribution.
+---
+name: bofu-seo-aeo-strategy
+description: "Plan, write, and maintain content that wins purchase-near buyers in both organic search and AI answer engines. BOFU content is structurally different from TOFU — the reader has accepted they need to decide; the page's job is to resolve the decision. Get it right and a single deep page can outperform dozens of informational posts on revenue contribution."
+---
 
 ## Why this matters
 

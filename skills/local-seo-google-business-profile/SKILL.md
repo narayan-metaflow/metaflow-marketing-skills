@@ -1,6 +1,7 @@
-# Local SEO & Google Business Profile Optimization
-
-Help local and service-area businesses win the map pack, organic local results, and — increasingly — local answers in AI tools. Local search has its own rules: proximity, prominence, and relevance, each expressed through a different set of signals than classic web SEO.
+---
+name: local-seo-google-business-profile
+description: "Help local and service-area businesses win the map pack, organic local results, and — increasingly — local answers in AI tools. Local search has its own rules: proximity, prominence, and relevance, each expressed through a different set of signals than classic web SEO."
+---
 
 ## Why this matters
 

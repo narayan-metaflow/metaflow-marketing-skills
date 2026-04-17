@@ -1,6 +1,7 @@
-# SEO Keyword Research & Intent Mapping
-
-Build a keyword universe that reflects how both humans *and* AI answer engines search. Traditional keyword research looks at standalone terms; modern research also maps the **fan-out sub-queries** AI tools generate when breaking down a user prompt.
+---
+name: seo-keyword-research-intent-mapping
+description: Build a keyword universe that reflects how both humans *and* AI answer engines search. Traditional keyword research looks at standalone terms; modern research also maps the **fan-out sub-queries** AI tools generate when breaking down a user prompt.
+---
 
 ## Why this matters
 

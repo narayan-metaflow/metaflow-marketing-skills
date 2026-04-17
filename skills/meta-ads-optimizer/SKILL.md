@@ -1,7 +1,7 @@
-
-# Meta Ads Optimizer
-
-Optimize running Meta Ads campaigns — audience refinement, budget scaling, learning phase management, placement optimization, automation rules, and creative rotation coordination.
+---
+name: meta-ads-optimizer
+description: "Optimize running Meta Ads campaigns — audience refinement, budget scaling, learning phase management, placement optimization, automation rules, and creative rotation coordination."
+---
 
 ## Process
 

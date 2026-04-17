@@ -1,7 +1,7 @@
-
-# Google Ads Campaign Builder
-
-Build and configure Google Ads campaigns across all 10+ campaign types — from campaign type selection through settings, targeting, creatives, and launch.
+---
+name: google-ads-campaign-builder
+description: "Build and configure Google Ads campaigns across all 10+ campaign types — from campaign type selection through settings, targeting, creatives, and launch."
+---
 
 ## Process
 

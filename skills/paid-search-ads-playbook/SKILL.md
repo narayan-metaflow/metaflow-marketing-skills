@@ -1,5 +1,7 @@
-
-# Paid Search Ads Playbook
+---
+name: paid-search-ads-playbook
+description: "Google and Microsoft paid search planning: structure, keywords, match types, negatives, RSAs, bidding lens, and landing-page alignment for conversion-focused spend."
+---
 
 ## When to Activate
 

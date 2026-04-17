@@ -1,6 +1,7 @@
-# SEO & AEO Content Strategy
-
-Design content systems that earn both Google rankings *and* AI citations. The core insight: AI answer engines read content differently than humans — they extract the highest-information-gain sentences and treat H2 headings as prompts. The "ski ramp" structure optimizes for both.
+---
+name: seo-aeo-content-strategy
+description: "Design content systems that earn both Google rankings *and* AI citations. The core insight: AI answer engines read content differently than humans — they extract the highest-information-gain sentences and treat H2 headings as prompts. The \"ski ramp\" structure optimizes for both."
+---
 
 ## Why this matters
 

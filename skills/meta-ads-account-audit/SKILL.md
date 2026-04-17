@@ -1,7 +1,7 @@
-
-# Meta Ads Account Audit
-
-Systematic 75+ checkpoint audit based on the Sam Tomlinson framework: ICP validation → signal infrastructure → account structure → audiences → creatives → measurement — with ICE-prioritized recommendations.
+---
+name: meta-ads-account-audit
+description: "Systematic 75+ checkpoint audit based on the Sam Tomlinson framework: ICP validation → signal infrastructure → account structure → audiences → creatives → measurement — with ICE-prioritized recommendations."
+---
 
 ## Process
 

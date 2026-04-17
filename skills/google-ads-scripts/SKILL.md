@@ -1,7 +1,7 @@
-
-# Google Ads Scripts
-
-Select, implement, and manage Google Ads scripts to automate PPC tasks at scale — n-gram analysis, bid management, budget pacing, anomaly detection, and performance reporting.
+---
+name: google-ads-scripts
+description: "Select, implement, and manage Google Ads scripts to automate PPC tasks at scale — n-gram analysis, bid management, budget pacing, anomaly detection, and performance reporting."
+---
 
 ## Process
 

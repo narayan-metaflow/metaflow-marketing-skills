@@ -1,6 +1,7 @@
-# AI Search Visibility (AEO / GEO / LLMO)
-
-> AI search and citation behavior change quickly. The frameworks below use the best available public data as of early 2026 (Google surfaces, ChatGPT, Perplexity, Gemini, and large-sample studies). Re-check assumptions as platforms update.
+---
+name: ai-search-visibility-aeo-geo-llmo
+description: "AI search and citation behavior change quickly. The frameworks below use the best available public data as of early 2026 (Google surfaces, ChatGPT, Perplexity, Gemini, and large-sample studies). Re-check assumptions as platforms update."
+---
 
 ## Why this matters
 

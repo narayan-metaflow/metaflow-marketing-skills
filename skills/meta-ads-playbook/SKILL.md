@@ -1,5 +1,7 @@
-
-# Meta Ads Playbook (Facebook & Instagram)
+---
+name: meta-ads-playbook
+description: "Meta ads planning playbook: objectives, structure, audiences, creative, testing cadence, Pixel/CAPI measurement. Does not assume live Marketing API access."
+---
 
 ## When to Activate
 

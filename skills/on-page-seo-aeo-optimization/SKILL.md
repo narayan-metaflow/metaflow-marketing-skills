@@ -1,6 +1,7 @@
-# On-Page SEO & AEO Optimization
-
-Turn a draft or existing page into something both Google *and* AI answer engines can index, rank, and cite. This skill operates at the single-page level — keyword research and strategy are inputs, not outputs.
+---
+name: on-page-seo-aeo-optimization
+description: "Turn a draft or existing page into something both Google *and* AI answer engines can index, rank, and cite. This skill operates at the single-page level — keyword research and strategy are inputs, not outputs."
+---
 
 ## Why this matters
 

@@ -1,7 +1,7 @@
-
-# Meta Ads Tracking Setup
-
-Implement and validate Meta Pixel + Conversions API (CAPI) for maximum signal quality — the single biggest lever for Meta Ads performance via the Andromeda ranking system.
+---
+name: meta-ads-tracking-setup
+description: Implement and validate Meta Pixel + Conversions API (CAPI) for maximum signal quality — the single biggest lever for Meta Ads performance via the Andromeda ranking system.
+---
 
 ## Why This Matters
 

@@ -1,7 +1,7 @@
-
-# Ad Spend Allocator
-
-Optimize budget allocation across paid media channels using Marketing Efficiency Ratio (MER), marginal ROAS analysis, diminishing returns modeling, and incrementality-informed decisions.
+---
+name: ad-spend-allocator
+description: "Optimize budget allocation across paid media channels using Marketing Efficiency Ratio (MER), marginal ROAS analysis, diminishing returns modeling, and incrementality-informed decisions."
+---
 
 ## Process
 
