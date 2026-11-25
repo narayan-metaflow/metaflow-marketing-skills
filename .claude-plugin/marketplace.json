@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "metaflow-marketing-skills",
-      "description": "27 marketing skills: Google/Meta playbooks and deep packs, SEO/AEO master set, prompt libraries for LLM visibility",
+      "description": "28 marketing skills: Google/Meta playbooks and deep packs, SEO/AEO master set, prompt libraries for LLM visibility",
       "source": "./",
       "strict": false,
       "skills": [
@@ -38,6 +38,7 @@
         "./skills/paid-media-reporter",
         "./skills/paid-search-ads-playbook",
         "./skills/prompt-picker",
+        "./skills/seo-aeo-content-brief",
         "./skills/seo-aeo-content-strategy",
         "./skills/seo-keyword-research-intent-mapping",
         "./skills/seo-max-kt",

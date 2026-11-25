@@ -22,7 +22,7 @@ All citations above are data-backed. The ski ramp framework has p-value 0.0 (sta
 2. **Map the topic universe.** Core topics (3-7) → subtopics (5-15 per core) → supporting questions (unlimited). This becomes the cluster architecture.
 3. **Design cluster architecture.** Pillar pages (broad, 2500+ words, link hub) → cluster pages (specific subtopics, link back to pillar + peers) → supporting content (FAQ, glossary, tools, comparisons).
 4. **Audit existing content.** Score every page on the 1-5 matrix below: **keep**, **update**, **consolidate**, **prune**, or identify as a **gap** to create.
-5. **Create content briefs with AEO structure baked in.** Use the ski ramp framework by default. See `references/content-brief-template.md` for the complete brief template.
+5. **Hand single pages to the brief skill.** When a page is ready to commission, invoke `seo-aeo-content-brief` with the query, a working title, the destination domain, and the page type. This skill still owns the library (clusters, audit, calendar). It does not write the single-page brief.
 6. **Build the editorial calendar.** Mix new creation with refresh cycles. Assume quarterly review of all priority content.
 7. **Define measurement criteria.** What does success look like per content type? Rankings, traffic, AI citations, leads, revenue?
 
@@ -120,7 +120,7 @@ Core fields every brief should include:
 | Information gain angle | What new data/insight do we add that nothing else has? |
 | Named author + credentials | Required for E-E-A-T |
 
-See `references/content-brief-template.md` for the complete version with prompts and guidance for each field.
+Produce the brief with `seo-aeo-content-brief`. The table above is the library-level field list, not the writer document.
 
 ### Content freshness cadence
 
@@ -195,7 +195,7 @@ Plan information gain as a *distributable asset*, not a blog post. Hand off to *
 |------|--------|---------|------|-------------|--------|
 
 ### Content briefs
-[Link or reference to detailed briefs for each piece — see references/content-brief-template.md]
+[One `seo-aeo-content-brief` per commissioned page]
 
 ### Information gain / distribution plan
 [What original assets will we create? How will they be distributed beyond our site?]
@@ -264,14 +264,15 @@ Plan information gain as a *distributable asset*, not a blog post. Hand off to *
 
 ## Reference files
 
-When planning content briefs or writing to the standard, read:
+When a strategy engagement needs the field list without producing a new brief, read:
 
-- `references/content-brief-template.md` — Complete content brief template with field-by-field guidance and ski-ramp examples. Read when creating or reviewing a content brief.
+- `references/content-brief-template.md` — Field checklist kept for strategy work. Single-page briefs are produced by `seo-aeo-content-brief`.
 
 ## Cross-skill handoffs
 
 - **← seo-keyword-research:** Receive clustered keyword map and fan-out sub-queries as input.
-- **→ seo-onpage-optimization:** Hand off content briefs for page-level ski ramp implementation.
+- **→ seo-aeo-content-brief:** Hand off one decided page (query, working title, domain, page type) for the writer brief.
+- **→ seo-onpage-optimization:** Hand off a drafted page for the ski-ramp pass. The brief comes from `seo-aeo-content-brief`, not from this skill.
 - **→ seo-link-building:** Hand off information gain assets (original research, data studies) for distribution plans.
 - **→ aeo-ai-search-visibility:** Hand off content for citation readiness review.
 - **→ seo-reporting:** Hand off priority pages for tracking.

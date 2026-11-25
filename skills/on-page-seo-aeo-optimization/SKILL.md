@@ -12,7 +12,7 @@ description: "Turn a draft or existing page into something both Google *and* AI 
 
 ## Process
 
-1. **Verify target keyword and intent alignment.** Read the brief (from seo-content-strategy). Confirm the target keyword and intent match the SERP reality. If the SERP has shifted since the brief was written, adjust before optimizing.
+1. **Verify target keyword and intent alignment.** Read the brief from `seo-aeo-content-brief`. Confirm the target keyword and intent match the SERP reality. If the SERP has shifted since the brief was written, adjust before optimizing. This skill starts from a draft. It does not invent the brief.
 2. **Optimize title tag and meta description.** Title is the single highest-leverage on-page element.
 3. **Structure header hierarchy.** H1 is the topic. H2s are question-based subtopics. H3s are supporting detail. Apply the ski ramp.
 4. **Optimize body content.** Front-load the answer. Definitive language. Entity density. Raw-HTML-visible content.
@@ -255,7 +255,8 @@ The first example gives the AI a clean prompt/answer pair with specific numbers.
 ## Cross-skill handoffs
 
 - **← seo-keyword-research:** Receive target keyword, intent, and fan-out sub-queries.
-- **← seo-content-strategy:** Receive content brief with ski ramp structure pre-specified.
+- **← seo-aeo-content-brief:** Receive the writer brief, then apply this skill to the draft. Do not write the brief here.
+- **← seo-content-strategy:** Receive a page the library plan has already prioritized. The brief itself comes from `seo-aeo-content-brief`.
 - **→ seo-technical-audit:** Escalate rendering issues, schema validation failures, or CWV regressions.
 - **→ aeo-ai-search-visibility:** Hand off published pages for citation readiness review.
 - **→ seo-reporting:** Hand off optimized pages for tracking.

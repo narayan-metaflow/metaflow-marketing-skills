@@ -1,15 +1,11 @@
 # Content Brief Template
 
-A content brief is the single document a writer needs to produce a publish-ready draft. A good brief eliminates ambiguity about what to write, why it matters, what to include, and what format the AI extraction layer expects.
+Single-page briefs are produced by `seo-aeo-content-brief`. Use that skill when the user asks for a content brief, a writing spec, or a rewrite plan for one page. This file is the field checklist for a strategy engagement that is already underway. Do not fill it as a second brief.
 
-## When to use this template
+## When this checklist still applies
 
-- Creating a new piece of content from scratch
-- Commissioning a rewrite for a failing page
-- Standardizing briefs across an internal team or freelance network
-- Onboarding a new writer to your content standards
-
-Read this file when the user asks for a content brief, a writing spec, or a rewrite plan for a specific page.
+- Checking that a strategy deliverable named the fields a later brief will need
+- Onboarding someone to the library-level standard before a page is commissioned
 
 ---
 

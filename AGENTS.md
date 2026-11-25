@@ -8,6 +8,7 @@ Use these skills as **deep playbooks** when the user’s task matches the skill�
 - **Meta (Facebook / Instagram) ads** → paid-social slugs (`meta-ads-*`, `meta-ads-playbook`).
 - **Budget mix, reporting, or cross-channel analysis** → `ad-spend-allocator`, `campaign-analyzer`, `paid-media-reporter`.
 - **Organic + AI answer engines** (crawlers, content, measurement) → SEO slugs (`seo-*`, `ai-search-visibility-*`, `bofu-seo-aeo-strategy`).
+- **A single new or refresh page brief** (one query, one domain, blog post or landing page) → `seo-aeo-content-brief`. Library planning stays on `seo-aeo-content-strategy`. On-page implementation of a draft stays on `on-page-seo-aeo-optimization`.
 - **LLM visibility prompt libraries** → `prompt-picker`.
 - **Long-form methodology / beliefs** when a single SKILL is not enough → `seo-max-kt` (`SEO_AND_AEO_KT.md`).
 
