@@ -1,6 +1,6 @@
 # Brief template
 
-One document. Same eight headings every time. Page type changes the notes under section 5 only.
+One document. Same eight headings every time. Page type changes the judgments in section 4 and the notes under section 5.
 
 Fill every heading. If a field was not retrieved, write `unknown` and the source gap. Label tool data, observation, inference, and user-provided input where a reader could mistake a judgment for a measurement.
 
@@ -38,13 +38,39 @@ Table stakes (present on most of the pages that fetched):
 
 Gaps (each tied to a URL above):
 
-## 4. Angle
+## 4. Judgments
+
+### Information gain
 
 One sentence: what this page will contain that the pages above do not.
 
 Evidence and who supplies it:
 
-If this domain cannot supply that evidence, narrow the angle or say the page should wait.
+If this domain cannot supply that evidence, narrow the sentence or say the page should wait.
+
+### Effort
+
+Purpose of this page:
+
+What satisfying effort, originality, and skill look like in the main content for that purpose:
+
+What would make this page a paraphrase of the results:
+
+Substance the writer has to produce so the work is visible:
+
+Do not score. A landing page, a definition, and a comparison do not owe the same kind of work.
+
+### E-E-A-T
+
+YMYL: clear / in between / not. Say why.
+
+Which of experience, expertise, and authoritativeness this topic needs for trust, and what in the main content will show it:
+
+Conflict of interest, if the site is selling what the page describes:
+
+If who created the page cannot be known from the site, write: trust judgment incomplete.
+
+A date, a byline, or a methodology line only if this page's trust depends on it. Otherwise leave it out.
 
 ## 5. Outline
 
@@ -104,7 +130,9 @@ Acceptance checks:
 - [ ] The opening answers the query or states the offer
 - [ ] Every heading in section 5 is present, or the change is explained
 - [ ] Every number has a named source and a date
-- [ ] The evidence named in section 4 is real
+- [ ] The information-gain sentence names something this site can supply
+- [ ] The effort paragraph is about this page's purpose and names visible substance
+- [ ] The E-E-A-T paragraph says which qualities this topic needs and how the content will show them
 - [ ] Internal links use URLs that exist on the destination domain
 - [ ] Nothing was added to hit a word count
 ```
@@ -117,7 +145,7 @@ Use these as the jobs inside section 5. Drop a job the results do not support. D
 
 1. First section answers the query. That is where the direct answer sits.
 2. Sections for table stakes, in the order a reader needs them.
-3. The section that carries the angle (the gap).
+3. The section that carries the information gain.
 4. A short close that restates the answer and the next action. This is a heading with a job, not a drafted conclusion.
 
 When the results are a comparison, alternatives, or "best X" page, replace this list with the heading jobs in `bofu-seo-aeo-strategy`.
